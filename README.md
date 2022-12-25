@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Im MINUS WORLD, live in United Stase, state Massacuhessts. I want to start programming in Python. Anthony.
+
 <!--
 **m1nusworld/m1nusworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
